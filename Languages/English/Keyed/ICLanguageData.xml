@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--  Mod Settings -->
+  <ImmuCorrect.Name>Immunity Correction</ImmuCorrect.Name>
+  <ImmuCorrect.AllowReset>Allow Reset:</ImmuCorrect.AllowReset>
+  <ImmuCorrect.Reset>Reset</ImmuCorrect.Reset>
+  <ImmuCorrect.NotAllow>Reset is not allowed. Check Settings</ImmuCorrect.NotAllow>
+  <ImmuCorrect.Message>Reset {0} pawn records.</ImmuCorrect.Message>
+  <ImmuCorrect.GameNotLoaded>Need to load a game to reset pawns</ImmuCorrect.GameNotLoaded>
+
+</LanguageData>

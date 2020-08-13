@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--  Mod Settings -->
+  <ImmuCorrect.Name>免疫校正</ImmuCorrect.Name>
+  <ImmuCorrect.AllowReset>允许重置:</ImmuCorrect.AllowReset>
+  <ImmuCorrect.Reset>重置</ImmuCorrect.Reset>
+  <ImmuCorrect.NotAllow>未开启重置。请检查Mod设置</ImmuCorrect.NotAllow>
+  <ImmuCorrect.Message>已重置 {0} 个生物体的免疫记录。</ImmuCorrect.Message>
+  <ImmuCorrect.GameNotLoaded>需要载入游戏以重置生物体免疫记录</ImmuCorrect.GameNotLoaded>
+</LanguageData>
