@@ -7,5 +7,4 @@
   <ImmuCorrect.NotAllow>Reset is not allowed. Check Settings</ImmuCorrect.NotAllow>
   <ImmuCorrect.Message>Reset {0} pawn records.</ImmuCorrect.Message>
   <ImmuCorrect.GameNotLoaded>Need to load a game to reset pawns</ImmuCorrect.GameNotLoaded>
-
 </LanguageData>
