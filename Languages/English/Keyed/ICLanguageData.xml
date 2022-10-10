@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--  Mod Settings -->
+  <ImmuCorrect.Version>Installed mod-version: {0}</ImmuCorrect.Version>
   <ImmuCorrect.Name>Immunity Correction</ImmuCorrect.Name>
   <ImmuCorrect.AllowReset>Allow Reset:</ImmuCorrect.AllowReset>
   <ImmuCorrect.Reset>Reset</ImmuCorrect.Reset>
