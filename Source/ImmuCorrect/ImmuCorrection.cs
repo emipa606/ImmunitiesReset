@@ -5,7 +5,7 @@ using Verse;
 
 namespace ImmuCorrect;
 
-public class ImmuCorrection
+public static class ImmuCorrection
 {
     public static void Correct_missing_immu()
     {
@@ -40,7 +40,7 @@ public class ImmuCorrection
                         continue;
                     }
 
-                    var list3 = NonPublicFields.ImmunityList(pawn.health.immunity);
+                    var list3 = NonPublicFields.ImmunityList(pawn?.health.immunity);
                     if (list3.Count > 0)
                     {
                         foreach (var immunityRecord in list3)
@@ -55,7 +55,7 @@ public class ImmuCorrection
                     }
 
                     num++;
-                    NonPublicFields.ImmunityList(pawn.health.immunity) = list2;
+                    NonPublicFields.ImmunityList(pawn?.health.immunity) = list2;
                 }
             }
 
